@@ -78,7 +78,7 @@ type SuggestionsProps = {
 class SuggestionsInternal extends React.Component<SuggestionsProps, {}> {
 
     listRef: any
-    @observable suggestionRefs: any[] = [];
+    suggestionRefs: any[] = [];
     @observable firstEnabledIndex: number;
     constructor(props: any) {
         super(props)

@@ -1,6 +1,6 @@
 {
     "name": "formstate-inator-react-material-ui",
-    "version": "0.0.02",
+    "version": "0.0.03",
     "description": "Material UI Components for use with formstate-inator.",
     "license": "MIT",
     "main": "lib/index.js",
